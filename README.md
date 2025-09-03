@@ -8,8 +8,8 @@ I'm a Computer Science student at West Virginia University (Class of 2027) with 
 - **Areas of Interest:** Web development, data acquisition systems, cloud technologies
 
 ### Featured Projects
-- [Outfit Weather App](link) — Suggests outfits using NOAA weather data.
+- [ClimaCloset](https://github.com/WVU-CS330-2024-08-Group02/ClimaCloset) — Suggests outfits using NOAA weather data.
 
 ### Connect with me
 - [Email](mailto:mcphillips004@gmail.com)
-- [LinkedIn](link)
+- [LinkedIn](www.linkedin.com/in/mp4dev)
