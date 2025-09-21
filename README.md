@@ -1,6 +1,6 @@
 # Hi, I'm Mason Phillips 👋
 
-I'm a Computer Science student at West Virginia University (Class of 2027) with a passion for full-stack development and building data-driven applications.
+I'm a Computer Science student with Emphasis in Cybersecurity at West Virginia University (Class of 2027) with a passion for full-stack development and building secure data-driven applications.
 
 ### Skills
 - **Languages:** Java, Python, JavaScript, SQL
@@ -12,4 +12,4 @@ I'm a Computer Science student at West Virginia University (Class of 2027) with 
 
 ### Connect with me
 - [Email](mailto:mcphillips004@gmail.com)
-- [LinkedIn](www.linkedin.com/in/mp4dev)
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mp4dev)
