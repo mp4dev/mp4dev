@@ -11,5 +11,5 @@ I'm a Computer Science student with Emphasis in Cybersecurity at West Virginia U
 - [ClimaCloset](https://github.com/WVU-CS330-2024-08-Group02/ClimaCloset) — Suggests outfits using NOAA weather data.
 
 ### Connect with me
-- [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:yourname@gmail.com)
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/mp4dev)
+- <a href="mailto:yourname@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/></a>
+- <a href="https://www.linkedin.com/in/mp4dev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30"/></a>
