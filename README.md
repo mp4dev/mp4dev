@@ -12,4 +12,4 @@ I'm a Computer Science student with Emphasis in Cybersecurity at West Virginia U
 
 ### Connect with me
 - [Email](mailto:mcphillips004@gmail.com)
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mp4dev)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp4dev)
