@@ -12,4 +12,4 @@ I'm a Computer Science student with Emphasis in Cybersecurity at West Virginia U
 
 ### Connect with me
 - [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:yourname@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-%20?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mp4dev)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/mp4dev)
